@@ -1,0 +1,7 @@
+
+Jkotlin:S6615;"&The value assigned here is never used.(æ¤Ôøÿÿÿÿ8É…Ü1
+?kotlin:S6615C" Remove this useless initializer.(º“ùÅ8É…Ü1
+>kotlin:S6615A" Remove this useless initializer.(€Ù¨8É…Ü1
+Dkotlin:S6615@" Remove this useless initializer.(ªË²ãùÿÿÿÿ8Í´Ÿ–É1
+lkotlin:S117"NRename this parameter to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$( ¶8Ï…Ü1
+\kotlin:S6511)"=Merge chained "if" statements into a single "when" statement.(¼º”µ8à…Ü1
